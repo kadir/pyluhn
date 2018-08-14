@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/pyluhn.py
-src/PyLuhn.egg-info/PKG-INFO
-src/PyLuhn.egg-info/SOURCES.txt
-src/PyLuhn.egg-info/dependency_links.txt
-src/PyLuhn.egg-info/top_level.txt
