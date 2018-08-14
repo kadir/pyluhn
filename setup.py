@@ -15,7 +15,7 @@ setup(
     classifiers = [
         'Programming Language :: Python',
         'Intended Audience :: Developers',
-        'License :: Public Domain',
+        'License :: MIT License',
         'Operating System :: OS Independent',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
